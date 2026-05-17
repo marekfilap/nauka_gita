@@ -1,1 +1,1 @@
-Wersja z mastera: waga 8
+Wersja z konfliktu: waga wynosi 9
